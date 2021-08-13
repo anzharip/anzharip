@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Well-versed on TS/JS and Python. Recently working on NestJS, Vue3, Three JS, FastAPI, Jupyter for data visualization. 
+Well-versed on TS/JS and Python. Recently working on NestJS, Vue3 + Tailwind CSS, Three JS, FastAPI, Jupyter for data visualization. 
 
 My recent open-source projects/contributions: 
 ### [azure-function-multipart](https://github.com/anzharip/azure-function-multipart#azure-function-multipart) 
